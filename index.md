@@ -1,7 +1,7 @@
 To do Today:
 
 1. Check the class roster (links below), click on your name and verify that it takes you to your GitHub Profile. If it does not: fork the the roster repository, edit the link for your name, test that it works, and finally make a pull request so that the link can be updated.
-  - 2nd Block
+    - 2nd Block
   - 7th Block
   - 8th Block
 2. On your GitHub profile make sure the following repositories are visible in the pinned repository list:
