@@ -4,6 +4,7 @@
     - [2nd Block](https://github.com/SKHS-Games-2018/2A2/blob/master/index.md)
     - [7th Block](https://github.com/SKHS-Games-2018/2B7/blob/master/index.md)
     - [8th Block](https://github.com/SKHS-Games-2018/2B8/blob/master/index.md)
+    
   If it does not: fork the the roster repository, edit the link for your name, test that it works, and finally make a pull request so that the link can be updated.
 2. On your GitHub profile make sure the following repositories are visible in the pinned repository list:
       - Your website -- username.github.io (e.g., douglasurner.github.io).
