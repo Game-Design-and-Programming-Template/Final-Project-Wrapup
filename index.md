@@ -34,7 +34,7 @@
             git push
             ```
         + If you are using a different repository for your game do the above steps in that repository.
-1. Build a web version of your game. Instructions for this step and the nex two are [here](https://game-design-and-programming-template.github.io/Build-a-Game-for-the-Web/) if you need them.
+1. Build a web version of your game. Instructions for this step and the next two are [here](https://game-design-and-programming-template.github.io/Build-a-Game-for-the-Web/) if you need them.
 1. Add it to the local clone of your website.
 1. Do the add, commit, push dance to update your website.
 1. Update the Playtest repository if it does not contain a current link to your game. [Here are the instructions](https://github.com/SKHS-Games-2018/Playtest) if you need them.
