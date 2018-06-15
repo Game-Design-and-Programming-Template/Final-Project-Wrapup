@@ -36,4 +36,5 @@
 1. Add it to the local clone of your website.
 1. Do the add, commit, push dance to update your website.
 1. Update the Playtest repository if it does not contain a current link to your game.
-1. Check out the games on the Playtest site.
+
+## When you've got it done -- see who you can help.
