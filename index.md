@@ -13,17 +13,17 @@
       - Start by making sure that the latest work on your game is on GitHub:
         + Navigate to your clone of the PlaygroundProjectStarter code.
         + Launch `Git Bash` and run the following commands:
-        ``` bash
-        git status
-        git add any-new-or-changed-files-or-folders
-        git commit -m "Final commit."
-        ```
+            ``` bash
+            git status
+            git add any-new-or-changed-files-or-folders
+            git commit -m "Final commit."
+            ```
         + If git status told you that there is nothing to commit, add the option **--allow-empty** to create an empty commit as a marker:
-        ``` bash
-        git status
-        git commit -m "Final commit." --allow-empty
-        git push
-        ```
+            ``` bash
+            git status
+            git commit -m "Final commit." --allow-empty
+            git push
+            ```
         + If you are using a different repository for your game do the above steps in that repository.
 1. Build a web version of your game.
 1. Add it to the local clone of your website.
