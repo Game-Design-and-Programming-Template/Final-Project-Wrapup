@@ -4,7 +4,7 @@ To do Today:
   - 2nd Block
   - 7th Block
   - 8th Block
-1. On your GitHub profile make sure the following repositories are visible in the pinned repository list:
+2. On your GitHub profile make sure the following repositories are visible in the pinned repository list:
   - Your website -- username.github.io (e.g., douglasurner.github.io).
   - Your fork of the Playtest repository.
   - Your fork of the PlaygroundProjectStarter repository.
