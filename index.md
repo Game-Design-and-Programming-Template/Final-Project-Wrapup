@@ -24,6 +24,7 @@
             git status
             git add any-new-or-changed-files-or-folders
             git commit -m "Final commit."
+            git push
             ```
         + If git status told you that there is nothing to commit, add the option **--allow-empty** to create an empty commit as a marker:
             ``` bash
