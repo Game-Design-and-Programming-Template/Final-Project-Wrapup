@@ -1,13 +1,13 @@
-To do Today:
+## To do Today:
 
 1. Check the class roster (links below), click on your name and verify that it takes you to your GitHub Profile. If it does not: fork the the roster repository, edit the link for your name, test that it works, and finally make a pull request so that the link can be updated.
-    - 2nd Block
-    - 7th Block
-    - 8th Block
+    - [2nd Block](https://github.com/SKHS-Games-2018/2A2/blob/master/index.md)
+    - [7th Block](https://github.com/SKHS-Games-2018/2B7/blob/master/index.md)
+    - [8th Block](https://github.com/SKHS-Games-2018/2B8/blob/master/index.md)
 2. On your GitHub profile make sure the following repositories are visible in the pinned repository list:
       - Your website -- username.github.io (e.g., douglasurner.github.io).
-      - Your fork of the Playtest repository.
-      - Your fork of the PlaygroundProjectStarter repository.
+      - Your fork of the [Playtest](https://github.com/SKHS-Games-2018/Playtest) repository.
+      - Your fork of the [PlaygroundProjectStarter](https://github.com/Game-Design-and-Programming-Template/PlaygroundProjectStarter) repository.
       - The repository holding your game (if it is not your PlaygroundProjectStarter fork).
 1. Push your final game to GitHub:
       - Start by making sure that the latest work on your game is on GitHub:
