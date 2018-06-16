@@ -1,5 +1,7 @@
 ## To do Today:
 
+Make sure that your final project work is turned in.
+
 1. Check the class roster page (links below): click on your name and verify that it takes you to your GitHub Profile.
     - [2nd Block](https://github.com/SKHS-Games-2018/2A2/blob/master/index.md)
     - [4th Block](https://github.com/SKHS-Games-2018/2A4/blob/master/index.md)
