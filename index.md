@@ -1,6 +1,3 @@
----
-link_target: "_blank"
----
 ## To do Today:
 
 1. Check the class roster (links below), click on your name and verify that it takes you to your GitHub Profile.
