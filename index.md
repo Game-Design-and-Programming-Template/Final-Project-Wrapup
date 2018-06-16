@@ -6,7 +6,7 @@
     - [7th Block](https://github.com/SKHS-Games-2018/2B7/blob/master/index.md)
     - [8th Block](https://github.com/SKHS-Games-2018/2B8/blob/master/index.md)
     
-    **If it does not (you git a 404 error instead), edit the roster to add a link to your GitHub profile:**
+    **If it does not (you git a cool looking 404 error instead), edit the roster to add a link to your GitHub profile:**
     - **fork** the the roster repository,
     - **edit** your entry to add a link to your GitHub profile,
     - **test** that it works, and finally 
