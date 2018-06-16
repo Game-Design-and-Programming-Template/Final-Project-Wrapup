@@ -1,14 +1,14 @@
 ## To do Today:
 
-1. Check the class roster (links below), click on your name and verify that it takes you to your GitHub Profile.
+1. Check the class roster page (links below): click on your name and verify that it takes you to your GitHub Profile.
     - [2nd Block](https://github.com/SKHS-Games-2018/2A2/blob/master/index.md)
     - [4th Block](https://github.com/SKHS-Games-2018/2A4/blob/master/index.md)
     - [7th Block](https://github.com/SKHS-Games-2018/2B7/blob/master/index.md)
     - [8th Block](https://github.com/SKHS-Games-2018/2B8/blob/master/index.md)
     
-    **If it does not:**
+    **If it does not (you git a 404 error instead), edit the roster to add a link to your GitHub profile:**
     - **fork** the the roster repository,
-    - **edit** the link for your name,
+    - **edit** your entry to add a link to your GitHub profile,
     - **test** that it works, and finally 
     - create a new **pull request** so that the link can be updated.
   
